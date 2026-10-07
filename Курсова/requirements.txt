@@ -1,0 +1,5 @@
+psycopg[binary]
+python-dotenv
+
+# Встановлення бібліотек через термінал
+pip install -r requirements.txt

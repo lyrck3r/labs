@@ -1,0 +1,19 @@
+#  Environment
+.env 
+
+# Python
+__pycache__/
+#.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desctop.ini
